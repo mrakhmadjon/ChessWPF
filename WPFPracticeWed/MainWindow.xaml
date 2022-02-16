@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFPracticeWed"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="700">
+        Title="MainWindow" Height="550" Width="600">
     <Grid Margin="20">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
@@ -28,54 +28,54 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <TextBlock Grid.Row="0" Grid.Column="1" Background="Black"/>
-        <TextBlock Grid.Row="0" Grid.Column="3" Background="Black"/>
-        <TextBlock Grid.Row="0" Grid.Column="1" Background="Black"/>
-        <TextBlock Grid.Row="0" Grid.Column="5" Background="Black"/>
-        <TextBlock Grid.Row="0" Grid.Column="7" Background="Black"/>
+        <Border Grid.Row="0" Grid.Column="1" Background="Black"/>
+        <Border Grid.Row="0" Grid.Column="3" Background="Black"/>
+        <Border Grid.Row="0" Grid.Column="1" Background="Black"/>
+        <Border Grid.Row="0" Grid.Column="5" Background="Black"/>
+        <Border Grid.Row="0" Grid.Column="7" Background="Black"/>
         
-        <TextBlock Grid.Row="1" Grid.Column="0" Background="Black"/>
-        <TextBlock Grid.Row="1" Grid.Column="2" Background="Black"/>
-        <TextBlock Grid.Row="1" Grid.Column="4" Background="Black"/>
-        <TextBlock Grid.Row="1" Grid.Column="6" Background="Black"/>
+        <Border Grid.Row="1" Grid.Column="0" Background="Black"/>
+        <Border Grid.Row="1" Grid.Column="2" Background="Black"/>
+        <Border Grid.Row="1" Grid.Column="4" Background="Black"/>
+        <Border Grid.Row="1" Grid.Column="6" Background="Black"/>
 
 
-        <TextBlock Grid.Row="2" Grid.Column="1" Background="Black"/>
-        <TextBlock Grid.Row="2" Grid.Column="3" Background="Black"/>
-        <TextBlock Grid.Row="2" Grid.Column="1" Background="Black"/>
-        <TextBlock Grid.Row="2" Grid.Column="5" Background="Black"/>
-        <TextBlock Grid.Row="2" Grid.Column="7" Background="Black"/>
-
-
-
-        <TextBlock Grid.Row="3" Grid.Column="0" Background="Black"/>
-        <TextBlock Grid.Row="3" Grid.Column="2" Background="Black"/>
-        <TextBlock Grid.Row="3" Grid.Column="4" Background="Black"/>
-        <TextBlock Grid.Row="3" Grid.Column="6" Background="Black"/>
-
-        <TextBlock Grid.Row="4" Grid.Column="1" Background="Black"/>
-        <TextBlock Grid.Row="4" Grid.Column="3" Background="Black"/>
-        <TextBlock Grid.Row="4" Grid.Column="1" Background="Black"/>
-        <TextBlock Grid.Row="4" Grid.Column="5" Background="Black"/>
-        <TextBlock Grid.Row="4" Grid.Column="7" Background="Black"/>
+        <Border Grid.Row="2" Grid.Column="1" Background="Black"/>
+        <Border Grid.Row="2" Grid.Column="3" Background="Black"/>
+        <Border Grid.Row="2" Grid.Column="1" Background="Black"/>
+        <Border Grid.Row="2" Grid.Column="5" Background="Black"/>
+        <Border Grid.Row="2" Grid.Column="7" Background="Black"/>
 
 
 
-        <TextBlock Grid.Row="5" Grid.Column="0" Background="Black"/>
-        <TextBlock Grid.Row="5" Grid.Column="2" Background="Black"/>
-        <TextBlock Grid.Row="5" Grid.Column="4" Background="Black"/>
-        <TextBlock Grid.Row="5" Grid.Column="6" Background="Black"/>
+        <Border Grid.Row="3" Grid.Column="0" Background="Black"/>
+        <Border Grid.Row="3" Grid.Column="2" Background="Black"/>
+        <Border Grid.Row="3" Grid.Column="4" Background="Black"/>
+        <Border Grid.Row="3" Grid.Column="6" Background="Black"/>
+
+        <Border Grid.Row="4" Grid.Column="1" Background="Black"/>
+        <Border Grid.Row="4" Grid.Column="3" Background="Black"/>
+        <Border Grid.Row="4" Grid.Column="1" Background="Black"/>
+        <Border Grid.Row="4" Grid.Column="5" Background="Black"/>
+        <Border Grid.Row="4" Grid.Column="7" Background="Black"/>
 
 
-        <TextBlock Grid.Row="6" Grid.Column="1" Background="Black"/>
-        <TextBlock Grid.Row="6" Grid.Column="3" Background="Black"/>
-        <TextBlock Grid.Row="6" Grid.Column="1" Background="Black"/>
-        <TextBlock Grid.Row="6" Grid.Column="5" Background="Black"/>
-        <TextBlock Grid.Row="6" Grid.Column="7" Background="Black"/>
 
-        <TextBlock Grid.Row="7" Grid.Column="0" Background="Black"/>
-        <TextBlock Grid.Row="7" Grid.Column="2" Background="Black"/>
-        <TextBlock Grid.Row="7" Grid.Column="4" Background="Black"/>
-        <TextBlock Grid.Row="7" Grid.Column="6" Background="Black"/>
+        <Border Grid.Row="5" Grid.Column="0" Background="Black"/>
+        <Border Grid.Row="5" Grid.Column="2" Background="Black"/>
+        <Border Grid.Row="5" Grid.Column="4" Background="Black"/>
+        <Border Grid.Row="5" Grid.Column="6" Background="Black"/>
+
+
+        <Border Grid.Row="6" Grid.Column="1" Background="Black"/>
+        <Border Grid.Row="6" Grid.Column="3" Background="Black"/>
+        <Border Grid.Row="6" Grid.Column="1" Background="Black"/>
+        <Border Grid.Row="6" Grid.Column="5" Background="Black"/>
+        <Border Grid.Row="6" Grid.Column="7" Background="Black"/>
+         
+        <Border Grid.Row="7" Grid.Column="0" Background="Black"/>
+        <Border Grid.Row="7" Grid.Column="2" Background="Black"/>
+        <Border Grid.Row="7" Grid.Column="4" Background="Black"/>
+        <Border Grid.Row="7" Grid.Column="6" Background="Black"/>
     </Grid>
 </Window>
